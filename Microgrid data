@@ -5,7 +5,9 @@
 Nominal voltage	= 12.66 kV
 Dt		= 1		
 beta 		= 0.999	
-alpha 		= 0.95		
+alpha 		= 0.95
+V_max		= 1.05
+V_min		= 0.95
 
 ########### Energy purchase cost ###########
 Hours	Cost
